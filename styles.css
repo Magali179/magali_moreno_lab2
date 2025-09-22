@@ -82,12 +82,13 @@ figure {
     margin: auto;
     box-shadow: 3px 3px 50px 1px #f15959;
     border-radius: 8px;
-    width: 40%;
+    width: 50%;
     text-align: center;
 }
 
 figure,
 img {
+    width: 200px;
     margin-top: 20px;
 }
 
